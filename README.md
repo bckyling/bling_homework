@@ -97,7 +97,7 @@ Lesson  | Unit Number | Session Number |
 [Final Project Presentations][1-1U]             | Unit 4 | Session 20 | 
 
 
-[1-1A]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/01-what-is-data-science
+[1-1A]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/01-welcome-to-data-science
 [1-1B]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/02-your-development-environment
 <!-- [1-1C]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/python-foundations -->
 <!-- [1-1D]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/fundamentals-review -->
