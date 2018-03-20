@@ -75,25 +75,25 @@ Lesson  | Unit Number | Session Number |
 What is Data Science?                 | Unit 1 | Session 1 |
 Your Development Environment           | Unit 1 | Session 2 |
 Python Foundations                          | Unit 1 | Session 3 |
-FLEX: Review + Project Workshop             | Unit 1 | Session 4 |
+Review + Project Workshop             | Unit 1 | Session 4 |
 --- | ---  | ---  |
 Exploratory Data Analysis in Pandas     | Unit 2 | Session 5 |
 Experiments & Hypothesis Testing        | Unit 2 | Session 6 |
 Data Visualization in Python            | Unit 2 | Session 7 |
 Statistics Review                             | Unit 2 | Session 8 |
-FLEX: Review + Project Workshop                 | Unit 2 | Session 9 |
+Review + Project Workshop                 | Unit 2 | Session 9 |
 --- | ---  | ---  |
 Linear Regression]                              | Unit 3 | Session 10 |
 Train-Test Split & Bias-Variance        | Unit 3 | Session 11 |
 KNN / Classification                            | Unit 3 | Session 12 |
 Logistic Regression                     | Unit 3 | Session 13 |
-FLEX: Review + Project Workshop         | Unit 3 | Session 14 |
+Review + Project Workshop         | Unit 3 | Session 14 |
 --- | ---  | ---  |
 Decision Trees               | Unit 4 | Session 15 |
 Working With API Data                   | Unit 4 | Session 16 |
 Natural Language Processing     | Unit 4 | Session 17 |
 Clustering                                   | Unit 4 | Session 18 |
-FLEX: Review + Project Workshop        | Unit 4 | Session 19 |
+Review + Project Workshop        | Unit 4 | Session 19 |
 Final Project Presentations            | Unit 4 | Session 20 |
 
 
