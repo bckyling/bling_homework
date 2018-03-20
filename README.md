@@ -97,26 +97,26 @@ Lesson  | Unit Number | Session Number |
 [Final Project Presentations][1-1U]             | Unit 4 | Session 20 | 
 
 
-[1-1A]: https://git.generalassemb.ly/datr-180320/course-materials/01-what-is-data-science
-[1-1B]: https://git.generalassemb.ly/datr-180320/course-materials/02-your-development-environment
-<!-- [1-1C]: https://git.generalassemb.ly/datr-180320/course-materials/python-foundations -->
-<!-- [1-1D]: https://git.generalassemb.ly/datr-180320/course-materials/fundamentals-review -->
-<!-- [1-1E]: https://git.generalassemb.ly/datr-180320/course-materials/statistics-review -->
-<!-- [1-1F]: https://git.generalassemb.ly/datr-180320/course-materials/experiments-hypothesis-tests -->
-<!-- [1-1G]: https://git.generalassemb.ly/datr-180320/course-materials/exploratory-data-analysis -->
-<!-- [1-1H]: https://git.generalassemb.ly/datr-180320/course-materials/visualizations -->
-<!-- [1-1I]: https://git.generalassemb.ly/datr-180320/course-materials/working-with-data-review -->
-<!-- [1-1J]: https://git.generalassemb.ly/datr-180320/course-materials/linear-regression -->
-<!-- [1-1K]: https://git.generalassemb.ly/datr-180320/course-materials/train-test-split-and-bias-variance -->
-<!-- [1-1L]: https://git.generalassemb.ly/datr-180320/course-materials/knn-classification -->
-<!-- [1-1M]: https://git.generalassemb.ly/datr-180320/course-materials/logistic-regression -->
-<!-- [1-1N]: https://git.generalassemb.ly/datr-180320/course-materials/data-modeling-review -->
-<!-- [1-1O]: https://git.generalassemb.ly/datr-180320/course-materials/getting-data-APIs -->
-<!-- [1-1P]: https://git.generalassemb.ly/datr-180320/course-materials/natural-language-processing -->
-<!-- [1-1Q]: https://git.generalassemb.ly/datr-180320/course-materials/decision-trees -->
-<!-- [1-1R]: https://git.generalassemb.ly/datr-180320/course-materials/flex_clustering -->
-<!-- [1-1T]: https://git.generalassemb.ly/datr-180320/course-materials/applications-review -->
-<!-- [1-1U]: https://git.generalassemb.ly/datr-180320/course-materials/unit-4_project -->
+[1-1A]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/01-what-is-data-science
+[1-1B]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/02-your-development-environment
+<!-- [1-1C]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/python-foundations -->
+<!-- [1-1D]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/fundamentals-review -->
+<!-- [1-1E]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/statistics-review -->
+<!-- [1-1F]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/experiments-hypothesis-tests -->
+<!-- [1-1G]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/exploratory-data-analysis -->
+<!-- [1-1H]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/visualizations -->
+<!-- [1-1I]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/working-with-data-review -->
+<!-- [1-1J]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/linear-regression -->
+<!-- [1-1K]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/train-test-split-and-bias-variance -->
+<!-- [1-1L]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/knn-classification -->
+<!-- [1-1M]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/logistic-regression -->
+<!-- [1-1N]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/data-modeling-review -->
+<!-- [1-1O]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/getting-data-APIs -->
+<!-- [1-1P]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/natural-language-processing -->
+<!-- [1-1Q]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/decision-trees -->
+<!-- [1-1R]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/flex_clustering -->
+<!-- [1-1T]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/applications-review -->
+<!-- [1-1U]: https://git.generalassemb.ly/datr-180320/course-materials/tree/master/unit-4_project -->
 
 ---
 
