@@ -19,8 +19,8 @@ Please note that this is a flex session. Instructors may use this session howeve
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Unit Activity |  Describes summative activity required for this unit | [Here](https://git.generalassemb.ly/course-datr-180320/course-materials/tree/master/unit-1) |
-| Final Project  | Lists deliverables and requirements for our course final project | [Here](https://git.generalassemb.ly/course-datr-180320/course-materials/tree/master/unit-4) |
+| Unit Activity |  Describes summative activity required for this unit | [Here](https://git.generalassemb.ly/datr-180320/course-materials/tree/master/unit-1) |
+| Final Project  | Lists deliverables and requirements for our course final project | [Here](https://git.generalassemb.ly/datr-180320/course-materials/tree/master/unit-4) |
 
 ---
 
